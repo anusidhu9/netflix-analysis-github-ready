@@ -94,8 +94,7 @@ The project uses Python with common data-analysis and visualization libraries. S
 
 ## Dataset
 
-The original dataset was not included with the uploaded notebook. Add the dataset required by the notebook to the `data/` folder before running it.
+### Data
 
-## License
+The required dataset has been uploaded to the `data/` folder and is ready to be used by the notebook.
 
-Add the license required by your course, team, or project before publishing the repository publicly.
